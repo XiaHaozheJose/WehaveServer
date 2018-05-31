@@ -13,7 +13,7 @@ let LOGIN_ERROR = "LOGIN_ERROR"
 
 // database path
 //let dbPath = "/Users/jose/Desktop/Master/TestPerfect/DB/wehave.db"
-let dbPath = "/home/jscoder/DB/wehave.db"
+let dbPath = "/home/jscoder/DB/wehave.db"  // Change Your path
 
 
 // configuration Push
@@ -21,7 +21,7 @@ let notificationsAppId = "com.js.wehave"
 let apnsTeamIdentifier = "Q9FQ8LK3ZQ"
 let apnsKeyIdentifier = "D36242MKZU"
 //let apnsPrivateKeyFilePath = "/Users/jose/Desktop/Master/TestPerfect/AuthKey_D36242MKZU.p8"
-let apnsPrivateKeyFilePath = "/home/jscoder/Certification/AuthKey_D36242MKZU.p8"
+let apnsPrivateKeyFilePath = "/home/jscoder/Certification/AuthKey_D36242MKZU.p8"// Change your path
 let DEVICE_TOKEN = "device_token"
 let NOTIFICATION = "notification"
 
